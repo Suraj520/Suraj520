@@ -15,6 +15,5 @@ About Me:
 - ⚡ Fun fact: I like to explore lossless music compositions though I am a noob at training machine learning/deep learning models in the domain.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj520&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj520&show_icons=true&theme=dark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
