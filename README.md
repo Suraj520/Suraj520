@@ -1,4 +1,4 @@
-![Hi, I'm Suraj 👋 I'm an Artificial Intelligence Enthusiast](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+![Hi, I'm Suraj 👋 I'm an Artificial Intelligence Enthusiast](https://github.com/Suraj520/Suraj520/Welcome.gif)
 <!--
 **Suraj520/Suraj520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
