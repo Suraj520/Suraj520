@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Completing the Python Developer Track of JetBrains Academy.
 - 🌱 I’m currently learning about creating deep learning architectures from scratch.
 - 👯 I’m looking to collaborate on computer vision related projects in the domain of  machine learning, deep learning
-- 🤔 I’m looking for help with -
+- 🤔 I’m looking for help with Tensorflow(Advanced)
 - 💬 Ask me about Deep Learning, Machine Learning, Computer vision
 - 📫 How to reach me: Email at hrishabhsuraj52@gmail.com
 - 😄 Pronouns: He/Him
