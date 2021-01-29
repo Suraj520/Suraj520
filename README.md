@@ -11,5 +11,5 @@
 ![](https://gitwar.herokuapp.com/badge?username=Suraj520&style=flat-square&color=red)
 * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj52/)](https://www.linkedin.com/in/suraj52/)
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Suraj520" alt="visitor badge"/>
 </p>
