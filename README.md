@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Suraj520/Suraj520/blob/main/Welcome.gif">
-</p>
+![Hi, I'm Suraj 👋 I'm an Artificial Intelligence Enthusiast](https://github.com/Suraj520/Suraj520/blob/main/Welcome.gif)
 # About Me:
 - 🔭 I’m currently working on completing various projects in the python Developer Track of JetBrains Academy.
 - 🌱 I’m currently learning about creating deep learning architectures from scratch.
