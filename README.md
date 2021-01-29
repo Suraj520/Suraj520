@@ -2,7 +2,7 @@
 # About Me:
 - 🔭 I’m currently working on completing various projects in the Python Developer Track of JetBrains Academy.
 - 💬 Ask me about Computer vision, Machine Learning and Deep Learning.
-- 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
+- 📫 Reach me out at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore lossless music compositions.
 
