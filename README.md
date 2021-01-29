@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about creating deep learning architectures from scratch.
 - 👯 I’m looking to collaborate on computer vision related projects in the domain of  machine learning, deep learning
 - 💬 Ask me about Deep Learning, Machine Learning, Computer vision
-- 📫 How to reach me: Email at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
+- 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore lossless music compositions though I am a noob at training machine learning/deep learning models in the domain.
 
