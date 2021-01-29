@@ -1,5 +1,5 @@
 <p align="center">
-![Hi, I'm Suraj 👋 I'm an Artificial Intelligence Enthusiast](https://github.com/Suraj520/Suraj520/blob/main/Welcome.gif)
+  <img src="https://github.com/Suraj520/Suraj520/blob/main/Welcome.gif"/>
 </p>
 # About Me:
 - 🔭 I’m currently working on completing various projects in the python Developer Track of JetBrains Academy.
