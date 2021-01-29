@@ -6,7 +6,7 @@
 - 💬 Ask me about Deep Learning, Machine Learning, Computer vision
 - 📫 Reach me at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to explore lossless music compositions though I am a noob at training machine learning/deep learning models in the domain.
+- ⚡ Fun fact: I like to explore lossless music compositions.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj520&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
