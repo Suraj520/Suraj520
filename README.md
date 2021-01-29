@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I like to explore lossless music compositions.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj520&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://gitwar.herokuapp.com/badge?username=Suraj520&style=flat-square&color=red)
 * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj52/)](https://www.linkedin.com/in/suraj52/)
 <p  align="center">
