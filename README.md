@@ -1,7 +1,7 @@
 ![Hi, I'm Suraj 👋 I'm an Artificial Intelligence Enthusiast](https://github.com/Suraj520/Suraj520/blob/main/Welcome.gif)
 # About Me:
 <!--- 🔭 I’m currently working on completing various projects in the Python Developer Track of JetBrains Academy. -->
-- 💻:  I’m currently working on test driven development projects in Python.
+<!--- 💻:  I’m currently working on weighted approactest driven development projects in Python. -->
 - 💬 Ask me about Computer vision, Machine Learning and Deep Learning.
 - 📫 Reach me out at [![Gmail Badge](https://img.shields.io/badge/-hrishabhsuraj52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hrishabhsuraj52@gmail.com)](mailto:hrishabhsuraj52@gmail.com)
 - 😄 Pronouns: He/Him
