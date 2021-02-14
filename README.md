@@ -9,7 +9,7 @@
 
 
 ![Suraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj520&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj520&layout=compact&langs_count=10)](https://github.com/Suraj520)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj520&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj52/)](https://www.linkedin.com/in/suraj52/)
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Suraj520" alt="visitor badge"/>
