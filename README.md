@@ -7,9 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to explore lossless music compositions.
 
-
+<p  align="center">
 ![Suraj's Github Stats](https://github-readme-stats.vercel.app/api?username=Suraj520&count_private=true)
 * Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj52/)](https://www.linkedin.com/in/suraj52/)
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Suraj520" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Suraj520" alt="visitor badge"/>
 </p>
